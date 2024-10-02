@@ -1,0 +1,31 @@
+
+{
+    "appTitle": "LeafSmart",
+      "drawerTitle": "LeafSmart Menu",
+  "settings": "Settings",
+  "openChatbot": "Open Chatbot",
+  "profile": "Profile",
+     "welcomeMessage": "Welcome to our app",
+
+    "settingsTitle": "Settings",
+    "darkMode": "Dark Mode",
+    "darkModeSubtitle": "Enable dark theme across the app",
+    "aboutLeafSmart": "About LeafSmart",
+    "version": "Version",
+    "preferences": "Preferences",
+    "appInformation": "App Information",
+    "diseaseDetection": "Disease Detection",
+    "weedIdentification": "Weed Identification",
+    "treatmentRecommendations": "Treatment Recommendations",
+    "expertConsultation": "Expert Consultation",
+    "fertilizerCalculator": "Fertilizer Calculator",
+    "plantCareTips": "Plant Care Tips",
+    "buyingFertilizers": "Buying Fertilizers",
+    "marketConnect": "Market Connect",
+    "soilHealthAnalysis": "Soil Health Analysis",
+    "weatherForecast": "Weather Forecast",
+    "farmActivityLog": "Farm Activity Log",
+    "financialManagement": "Financial Management",
+    "language": "Language",
+    "profile": "Profile"
+}

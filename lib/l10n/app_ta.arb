@@ -1,0 +1,27 @@
+{
+    "appTitle": "லீஃப்ஸ்மார்ட்",
+    "settings": "அமைப்புகள்",
+     "settingsTitle": "அமைப்புகள்",
+     "welcomeMessage": "Welcome to our app",
+
+    "darkMode": "இருண்ட பயன்முறை",
+    "darkModeSubtitle": "பயன்பாட்டில் இருண்ட தீம் இயக்கு",
+    "aboutLeafSmart": "லீஃப்ஸ்மார்ட் பற்றி",
+    "version": "பதிப்பு",
+    "preferences": "விருப்பங்கள்",
+    "appInformation": "பயன்பாட்டு தகவல்",
+    "diseaseDetection": "நோய் கண்டறிதல்",
+    "weedIdentification": "களை அடையாளம்",
+    "treatmentRecommendations": "சிகிச்சை பரிந்துரைகள்",
+    "expertConsultation": "நிபுணர் ஆலோசனை",
+    "fertilizerCalculator": "உர கணிப்பான்",
+    "plantCareTips": "தாவர பராமரிப்பு குறிப்புகள்",
+    "buyingFertilizers": "உரங்கள் வாங்குதல்",
+    "marketConnect": "சந்தை இணைப்பு",
+    "soilHealthAnalysis": "மண் ஆரோக்கியம் பகுப்பாய்வு",
+    "weatherForecast": "வானிலை முன்னறிவிப்பு",
+    "farmActivityLog": "பண்ணை செயல்பாடு பதிவு",
+    "financialManagement": "நிதி மேலாண்மை",
+    "language": "மொழி",
+    "profile": "சுயவிவரம்"
+}
